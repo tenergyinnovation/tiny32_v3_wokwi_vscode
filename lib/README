@@ -45,3 +45,25 @@ libraries scanning project source files.
 More information about PlatformIO Library Dependency Finder
 - https://docs.platformio.org/page/librarymanager/ldf.html
 
+*********************************************************************
+Please clone to lib
+1. git clone https://github.com/tenergyinnovation/tiny32_v3.git
+2. git clone https://github.com/bblanchon/ArduinoJson.git
+3. git clone https://github.com/tzapu/WiFiManager.git
+4. git clone https://github.com/knolleary/pubsubclient.git
+
+copy library from arduino to this directory
+
+"/Users/utenboonliam/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/"   -->   "lib"
+
+1. HTTPUpdate
+2. HTTPClient
+3. WiFiClientSecour
+
+
+
+reference: 
+https://mischianti.org/2023/03/16/esp32-self-ota-update-firmware-from-server-1/
+
+server: 139.59.237.181
+firmwre path: /var/www/html/firmware
