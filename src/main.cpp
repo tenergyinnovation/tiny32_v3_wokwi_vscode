@@ -38,8 +38,8 @@ void header_print(void)
     Serial.printf("* Revision     :     %s\r\n", version);
     Serial.printf("* Rev1.0       :     Origital\r\n");
     Serial.printf("* website      :     http://www.tenergyinnovation.co.th\r\n");
-    Serial.printf("* Email        :     admin@innovation.co.th\r\n");
-    Serial.printf("* TEL          :     +66 82-308-3299\r\n");
+    Serial.printf("* Email        :     uten.boonliam@tenergyinnovation.co.th\r\n");
+    Serial.printf("* TEL          :     +66 89-140-7205\r\n");
     Serial.printf("***********************************************************************/\r\n");
 }
 
