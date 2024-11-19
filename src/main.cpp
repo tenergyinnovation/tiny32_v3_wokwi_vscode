@@ -3,7 +3,7 @@
  * Description  :     this code is template source code useful for tiny32_v3 and tiny32_v4
  *                    hardware simulate run with wokwi simulate, it works with vscode
  * Hardware     :     tiny32_v3 and tiny32_v4
- * Author       :     Tenergy Innovation Co., Ltd.
+ * Author       :     Tenergy Innovation Co.,Ltd.
  * Date         :     11/09/2023
  * Revision     :     1.0
  * Rev1.0       :     Origital
@@ -33,7 +33,7 @@ void header_print(void)
     Serial.printf("* Description  :     this code is template source code useful for tiny32_v3 and tiny32_v4 \r\n");
     Serial.printf("*                    hardware simulate run with wokwi simulate, it works with vscode \r\n");
     Serial.printf("* Hardware     :     tiny32_v3 and tiny32_v4\r\n");
-    Serial.printf("* Author       :     Tenergy Innovation Co., Ltd.\r\n");
+    Serial.printf("* Author       :     Tenergy Innovation Co.,Ltd.\r\n");
     Serial.printf("* Date         :     11/09/2023\r\n");
     Serial.printf("* Revision     :     %s\r\n", version);
     Serial.printf("* Rev1.0       :     Origital\r\n");
